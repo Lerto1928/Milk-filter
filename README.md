@@ -3,7 +3,7 @@
 <div align="center">
   <img src="assets/icon.png" alt="Milk Filter Logo" width="150" height="150">
   <br>
-  <p><b>Программа для наложения атмосферных фильтров на фото и видео в стиле визуальных новелл <i>"Milk inside a bag of milk"</i> и <i>"Milk outside a bag of milk"</i>.</b></p>
+  <p><b>Программа для наложения атмосферных фильтров на фото и видео в стиле визуальных новелл <br><i>"Milk inside a bag of milk"</i> и <i>"Milk outside a bag of milk"</i>.</b></p>
 
   [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
   [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)](https://opencv.org/)
