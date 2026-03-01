@@ -49,7 +49,7 @@
 ## ⚙️ Установка и запуск
 
 **Для запуска:**
-1. Скачайте архив "Moloko...exe" по [ссылке](https://github.com/Lerto1928/Milk-filter/releases/tag/release)
+1. Скачайте архив "Moloko...exe" по [ссылке](https://github.com/Lerto1928/Milk-filter/releases/tag/release2)
 2. Запустите Moloko...exe
 
 **Использование:**
