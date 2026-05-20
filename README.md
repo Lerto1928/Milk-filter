@@ -71,7 +71,7 @@
 
 * Наш [Telegram канал](https://t.me/eratusiaTT)
 * Наш [TikTok](https://www.tiktok.com/@eratusia)
-* Скинуть разработчика на пакет мØлØка [ТЫК](https://www.donationalerts.com/r/eratusia)
+* Скинуть разработчикам на пакет мØлØка [ТЫК](https://www.donationalerts.com/r/eratusia)
 
 ## Благодарность
 * Отдельное спасибо **@keansikma** за помощь в продвижении. Thank you^^
